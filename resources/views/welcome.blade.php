@@ -71,12 +71,12 @@
                 </div>
 
                 <div class="links">
-                    <a href="http://127.0.0.1:8000/topolino">Topolino</a>
-                    <a href="http://127.0.0.1:8000/minnie">Minnie</a>
-                    <a href="http://127.0.0.1:8000/paperino">Paperino</a>
-                    <a href="http://127.0.0.1:8000/pietro">Pietro</a>
-                    <a href="http://127.0.0.1:8000/pluto">Pluto</a>
-                    <a href="http://127.0.0.1:8000/pippo">Pippo</a>
+                    <a href="\topolino">Topolino</a>
+                    <a href="\minnie">Minnie</a>
+                    <a href="\paperino">Paperino</a>
+                    <a href="\pietro">Pietro</a>
+                    <a href="\pluto">Pluto</a>
+                    <a href="\pippo">Pippo</a>
                 </div>
             </div>
         </div>

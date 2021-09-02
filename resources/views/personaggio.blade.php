@@ -7,11 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-
-    <h1> Io sono {{$name}} </h1>
-
-    <img src="{{$srcLogo}}" />
-
+    <div class="tac">
+        <div class="core">
+            <h1> Io sono {{$name}} </h1>
+            <img src="{{$srcLogo}}" />
+            <h3><a href="\">HOME</a> </h3>
+        </div>
+    </div>
 </body>
 </html>
 
@@ -21,4 +23,8 @@
             
                 height: 200px;
                 width : auto;
+            }
+
+            .tac {
+                text-align: center;
             }
